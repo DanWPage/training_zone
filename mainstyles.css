@@ -1,0 +1,22 @@
+
+
+body    {background-color: black;
+        color: white;}
+
+h1  {color: white;
+    text-align: center;
+    font-size: 4em;
+    border: 5px solid red;
+    padding: 20px}
+
+nav ul {justify-content: center;
+        text-align: center;}
+
+nav li {display: inline;
+        text-align: center;
+        margin: 20px;}
+
+nav a  {text-align: center;
+        font-size: 1.5em;}
+
+#group_training {clear: both;}
